@@ -9,4 +9,6 @@ this is 7th line
 this is 8th line
 10th line
 11th line
+<<<<<<< HEAD
 
+>>>>>>> dev
