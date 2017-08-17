@@ -1,7 +1,7 @@
 hello 
 this is my 2nd file
 yay/nay
-<<<<<<< HEAD
+
 hello hai
 =======
 this is 4th line
@@ -10,4 +10,6 @@ this is 6th line
 
 this is 7th line 
 this is 8th line
->>>>>>> 8e42f9a2e9f85856ccb1f9975d104714e433e931
+10th line
+11th line
+
